@@ -18,4 +18,9 @@ that only 2 of those had a positive net return in 2018. Using this, we can tell 
 The two images above were used after we refractored our code. By refractoring, we made the process time even fastor. With our original code, the following times were:
 ![2017_Before_Refractor](2017_Before_Refractor.png)
 as well as:
-![2018_Before_Refractor](2018_Before_Refractor)
+![2018_Before_Refractor](2018_Before_Refractor.png)
+Nearly taking 10 times as long. 
+
+## Summary
+* The advantage of refractoring code includes having a faster processing time. Although in this case, it was just a second of difference with each two, it could save much more time depending on what we are annalyzing. However, a disadvantage could be accidentally making the process take longer to process. Luckily, that wasn't the case here.
+* In our original script, we didn't really tell VBA when to stop. Therefore, it checked every possible outcome. In this script though, we were telling it to only research certain outcomes, making it end significantly quicker.
