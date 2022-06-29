@@ -9,3 +9,4 @@ Looking into the years 2017 and 2018 regarding 12 different stocks, we will see 
 
 ## Results
 As we can see from the following image:
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
